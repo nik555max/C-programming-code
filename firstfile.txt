@@ -1,5 +1,9 @@
-#include<stdio.h>
+#include<stdio.h>     #Preprocessor directory
+#declaring main function
 int main()
 {
+	#Printing a simple Hello World!!! string.
 	printf("Hello World!!!");
+	
+return 0;
 }
